@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="word_listtr">
+        <item>bilgisayar</item>
+        <item>telefon</item>
+        <item>kitap</item>
+        <item>kalem</item>
+        <item>masa</item>
+        <item>sandalye</item>
+        <item>araba</item>
+        <item>gözlük</item>
+        <item>kamera</item>
+        <item>çanta</item>
+        <item>türkiye</item>
+        <item>fransa</item>
+        <item>almanya</item>
+        <item>italya</item>
+        <item>sarı</item>
+        <item>mor</item>
+        <item>siyah</item>
+        <item>beyaz</item>
+        <item>turuncu</item>
+        <item>pembe</item>
+        <item>portakal</item>
+        <item>çilek</item>
+        <item>kiraz</item>
+        <item>şeftali</item>
+        <item>erik</item>
+        <item>doktor</item>
+        <item>mühendis</item>
+        <item>öğretmen</item>
+        <item>avukat</item>
+        <item>polis</item>
+        <item>şef</item>
+        <item>kurt</item>
+        <item>maymun</item>
+        <item>zürafa</item>
+        <item>fil</item>
+        <item>kaplan</item>
+    </string-array>
+</resources>

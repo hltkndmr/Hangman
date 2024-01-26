@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="word_listen">
+        <item>computer</item>
+        <item>phone</item>
+        <item>book</item>
+        <item>pen</item>
+        <item>table</item>
+        <item>chair</item>
+        <item>car</item>
+        <item>glasses</item>
+        <item>camera</item>
+        <item>bag</item>
+        <item>turkey</item>
+        <item>france</item>
+        <item>germany</item>
+        <item>italy</item>
+        <item>yellow</item>
+        <item>purple</item>
+        <item>black</item>
+        <item>white</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>orange</item>
+        <item>strawberry</item>
+        <item>cherry</item>
+        <item>peach</item>
+        <item>plum</item>
+        <item>doctor</item>
+        <item>engineer</item>
+        <item>teacher</item>
+        <item>lawyer</item>
+        <item>police</item>
+        <item>chef</item>
+        <item>wolf</item>
+        <item>monkey</item>
+        <item>giraffe</item>
+        <item>elephant</item>
+        <item>tiger</item>
+    </string-array>
+
+</resources>
